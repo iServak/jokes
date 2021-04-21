@@ -1,6 +1,6 @@
 # Flask settings
 DEBUG=False
-SERVER_NAME="localhost:5000"
+#SERVER_NAME="localhost:5000"
 
 
 # SQLAlchemy settings
