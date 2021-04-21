@@ -3,6 +3,7 @@ import logging
 import logging.config
 import settings
 import click
+from datetime import datetime
 from flask import Flask, Blueprint
 from flask.cli import AppGroup, with_appcontext
 from database import db, reset_database
